@@ -33,7 +33,7 @@ For example, if a row said 2 blank 7 = 14, we could figure out that blank has to
 
 ### a) Write out the equations below and assign them to the appropriate names. The first rows has been completed as an example.
 
-![A math square puzzle](math_square_W21.jpg)
+![A math square puzzle](math_square_W21.png)
 ```{r}
 # Row 1
 r1 <- 4 * 3
